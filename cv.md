@@ -1,30 +1,30 @@
-Yuliya Ivashniova CV 
+# Yuliya Ivashniova CV 
 
 Yuliya Ivashniova
 
 Date of Birth
 
-20 January 1993
+*20 January 1993*
 
 Current place of residence
 
-Gomel, Republic of Belarus
+*Gomel, Republic of Belarus*
 
 Mobile
 
-29 319 84 03 (Belarus)  
-130 6188 7293 (China)
+*25 735 32 83 (Belarus)* 
+*130 6188 7293 (China)*
 
 E-mail
 
-xt5497@gmail.com  
-xt5497@sina.cn
+*xt5497@gmail.com* 
+*xt5497@sina.cn*
 
 Foreign Languages
 
-English, Chinese (proficient), German (beginner)
+*English, Chinese (proficient), German (beginner)*
 
-Education
+## Education
 ---------
 
 2010-2015
@@ -51,7 +51,7 @@ Major
 
 Chinese language and culture globalization
 
-Employment History
+## Employment History
 ------------------
 
 September 2017 – July 2020
@@ -102,7 +102,7 @@ Intern
 
 Belarus Hi-Tech Park Administration
 
-International Examination Certificates
+## International Examination Certificates
 --------------------------------------
 
 Chinese Proficiency Test (HSK)
