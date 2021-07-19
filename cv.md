@@ -1,10 +1,8 @@
-Yuliya Ivashniova CV td { border: 1px solid #7B7D7D; padding: 10px; margin: 5px; } table { width: 560px; border: 1px solid #7B7D7D; } th { font-size: 24px; } .all-contents { margin: auto; width: 564px; border: 3px solid black; padding: 10px; }
+Yuliya Ivashniova CV 
 
 Yuliya Ivashniova
 
 Date of Birth
-
-![my_photo](img\profile_photo.jpg)
 
 20 January 1993
 
